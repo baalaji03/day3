@@ -1,0 +1,1 @@
+The day 2 task is about the difference between document object and window object.
